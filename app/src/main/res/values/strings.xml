@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Autistant</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Autistant</string>
+    <string name="nav_header_subtitle">Autism Assistant</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="about_us">About Us</string>
+    <string name="specialist">Specialist</string>
+    <string name="hospital">Hospital</string>
+    <string name="school">School</string>
+    <string name="communicate">Communicate</string>
+    <string name="contact_ua">Contact Ua</string>
+
+
+</resources>
